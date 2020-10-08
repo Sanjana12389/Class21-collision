@@ -1,2 +1,2 @@
-# Class21-collision
-function arguments and library for collision
+# p5.play-boilerplate
+Boiler plate for p5.play
